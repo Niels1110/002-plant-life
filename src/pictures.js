@@ -1,3 +1,4 @@
+//Pictures
 const pictureArea = document.querySelector(".pictures-wrapper");
 const pictures = pictureArea.querySelectorAll("img");
 
